@@ -1,6 +1,7 @@
 ---
-title: "Rcpp: Integrando C++ con R"
-author: "Gabriel Cabrera <br/> Santiago de Chile"
+title: "Rcpp"
+subtitle: "Integrando C++ con R"
+author: "Gabriel Cabrera"
 date: "2018/12/31 <br/> updated (`r Sys.Date()`)"
 output:
   xaringan::moon_reader:
@@ -16,21 +17,46 @@ output:
       in_header: header.html
 ---
 
-
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
 
----
 class: inverse, center, middle
 
 # Mantenerse en Contacto
 
 <a style="color:#fff;" href="mailto:gcabrerag@gmail.com"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; gcabrerag@gmail.com</a><br>
-<a style="color:#fff;" href="https://gcabrerag.rbind.com/"><i class="fa fa-link fa-fw"></i>&nbsp; gcabrerag.rbind.com</a><br>
+<a style="color:#fff;" href="https://gcabrerag.rbind.io/"><i class="fa fa-link fa-fw"></i>&nbsp; gcabrerag.rbind.io</a><br>
 <a style="color:#fff;" href="https://twitter.com/GaboC_g"><i class="fa fa-twitter fa-fw"></i>&nbsp; @GaboC_g</a><br>
 <a style="color:#fff;" href="http://github.com/GaboC_g"><i class="fa fa-github fa-fw"></i>&nbsp; @GaboCg</a><br>
 <a style="color:#fff;" href="http://pregrado.fen.uchile.cl/"><i class="fa fa-map-marker fa-fw"></i>&nbsp; Facultad de Economía & Negocios, Universidad de Chile </a>
+
+---
+class: middle
+
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+
+"Gospodin," he said presently, "you used an odd word earlier--odd to me, I mean..."
+
+<p>
+
+"Oh, 'tanstaafl.' Means ~There ain't no such thing as a free lunch.' And isn't," I added, pointing to a FREE LUNCH sign across room, "or these drinks would cost half as much. Was reminding her that anything free costs twice as much in long run or turns out worthless."
+
+<p align="right"> Robert Heinlein <i>, The Moon is a Harsh Mistress </i> (1966).</p>
+
+</blockquote>
+
+---
+class: center, inverse, middle
+
+# Un poco de historia
+
+---
+class: middle, center
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+background-size: 100px
+background-position: 90% 8%
 
 ---
 
@@ -600,11 +626,29 @@ Press `h` or `?` to see the possible ninjutsu you can use in remark.js.
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7e/Mudra-Naruto-KageBunshin.svg)
 
 ---
+class: inverse, middle, center
+
+# Recursos
+
+---
+## CppCon 2015: “Rcpp: Seamless R and C++ Integration"
+
+<br>
+<br>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xiqYaHa2x4s" frameborder="0" allow="encrypted-media" allowfullscreen ></iframe>
+</center>
+
+---
 
 class: center, middle
 
-# Thanks!
+# Muchas Gracias!
 
-Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+Slides creadas usando R package [**xaringan**](https://github.com/yihui/xaringan).
 
-The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](http://yihui.name/knitr), and [R Markdown](https://rmarkdown.rstudio.com).
+Los chakras provienen de [**remark.js**](https://remarkjs.com), 
+[**knitr**](http://yihui.name/knitr), y [**R Markdown**](https://rmarkdown.rstudio.com).
+
+Finalmente, el tema usado es Dharma creado por mí `r emo::ji("v")` 
