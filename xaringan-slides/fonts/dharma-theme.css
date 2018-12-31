@@ -1,0 +1,30 @@
+/*gcabrerab.rbind.io*/
+/*gcabrerab.rbind.io*/
+
+h1, h2, h3{ font-weight: bold;
+            text-shadow: -1px 0 black, 0 5px black, 3px 0 black, 0 -1px black;
+}
+
+.remark-code, .remark-inline-code {background-color: #ffedcc; 
+                                   font-family: 'Ubuntu Mono';}
+
+a, a > code {
+  color: orange;
+}
+
+.inverse{background-color: orange;}
+
+.inverse, .inverse h1, .inverse h2, .inverse h3, inverse a > code{
+  color: #fff;
+  text-shadow: -1px 0 black, 0 5px black, 3px 0 black, 0 -1px black;
+}
+
+.title-slide{
+  background-image: url(universe_package.png); /*the css file dont how to look up in other folder */ 
+  background-position: center; 
+  background-size: cover;
+  text-shadow: -1px 0 black, 0 5px black, 3px 0 black, 0 -1px black;
+}
+
+
+.remark-code-line-highlighted { background-color: #ffedcc;}

@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(https://fonts.googleapis.com/css?family=Gochi+Hand);
+
+body { font-family: 'Gochi Hand';
+       text-align: justify;
+}
+
+h1, h2, h3 {font-family: 'Indie Flower';
+            color: orange;
+}
