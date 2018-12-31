@@ -49,7 +49,7 @@ class: middle
 ---
 class: center, inverse, middle
 
-# Un poco de historia
+# Breve historia
 
 ---
 class: middle, center
@@ -639,6 +639,28 @@ class: inverse, middle, center
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xiqYaHa2x4s" frameborder="0" allow="encrypted-media" allowfullscreen ></iframe>
 </center>
+
+---
+## Integrating R with C++: Rcpp, RInside, and RProtobuf
+
+<br>
+<br>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UZkaZhsOfT4" frameborder="0" allow="encrypted-media" allowfullscreen ></iframe>
+</center>
+
+---
+# Enlaces
+
+1. https://www.rstudio.com/resources/videos/extending-r-with-c-a-brief-introduction-to-rcpp/
+2. http://adv-r.had.co.nz/Rcpp.html#rcpp-intro
+3. https://teuder.github.io/rcpp4everyone_en/
+
+---
+class: inverse, center, middle
+
+# Referencias
 
 ---
 
